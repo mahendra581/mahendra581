@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahendra Adi Rahmawan</h1>
+<h1 align="center">Mahendra Adi Rahmawan</h1>
 <h3 align="center">A passionate Software Engineer, Mobile Apps, Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahendra581&label=Profile%20views&color=0e75b6&style=flat" alt="mahendra581" /> </p>
